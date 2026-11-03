@@ -1,0 +1,4 @@
+# scratch / OS junk
+__pycache__/
+*.pyc
+.DS_Store
